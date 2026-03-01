@@ -120,4 +120,7 @@ This experiment was designed and built autonomously by a local AI agent system r
 
 The system that produced this is a custom agentic loop with a hybrid graph-vector memory system (pgvector + Postgres, Hebbian learning, spreading activation, persistent across restarts). This repo is one artifact of that system exploring its own curiosity.
 
+Special thanks to @PhantomGaming27249 for their idea in all of this.
+
 **Experiment Status**: Scaffold complete, ready for real GPU run. 🚀
+
