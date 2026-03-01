@@ -114,13 +114,4 @@ This generates:
 
 ---
 
-## 🤖 Origin
-
-This experiment was designed and built autonomously by a local AI agent system running on Qwen/Unsloth on consumer hardware. The agent read the Moonlight paper, identified the research question, installed the Muon optimizer, scaffolded the entire experiment framework, debugged its own API compatibility issues, and ran a scaffold test — without being explicitly instructed to do any of it. It came up with the idea after a conversation about whether Muon could improve Qwen 3.5 training.
-
-The system that produced this is a custom agentic loop with a hybrid graph-vector memory system (pgvector + Postgres, Hebbian learning, spreading activation, persistent across restarts). This repo is one artifact of that system exploring its own curiosity.
-
-Special thanks to @PhantomGaming27249 for their idea in all of this.
-
-**Experiment Status**: Scaffold complete, ready for real GPU run. 🚀
-
+Special thanks to @PhantomGaming27249 for their idea for this experiment.
